@@ -9,7 +9,7 @@ export const profile = {
   email: "nachogomezz0011@gmail.com",
   linkedin: "https://www.linkedin.com/in/ignaciogomez0011/",
   github: "https://github.com/nachogomezrp",
-  cv: "/cv_ignacio_gomez.pdf",
+  cv: "/CV_Ignacio_Gomez.pdf",
 };
 
 export const terminal = [
